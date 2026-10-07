@@ -216,4 +216,4 @@ DeSmuME is offered as a complete free version with all features and updates incl
 Start your Nintendo DS gaming adventure today! Download DeSmuME free and enjoy every moment.
 
 ---
-**Last updated:** 2026-10-07 11:32:49 UTC
+**Last updated:** 2026-10-07 18:30:31 UTC
